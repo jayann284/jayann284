@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayann284
 - 👀 I’m interested in computer science, animation, and all things computer.
-- 🌱 I’m currently learning python.
+- 💻 I’m currently studying a computer engineering degree.
 - 💞️ I’m looking to collaborate on future projects and help and advice that can help me improve as a programmer.
 - 📫 How to reach me? Email: annedroidd243@gmail.com
 <!---
